@@ -41,7 +41,7 @@ public class Solution {
         counter2++;
       } else {
         counter1--;
-        counter2++;
+        counter2--;
       }
     }
     
